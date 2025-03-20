@@ -1,0 +1,191 @@
+PRIORITY_MATCH_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>bobo |pogi |sino ang|ano ang|kamusta |kumusta|bakit |saan ang|saan makikita|ikaw ba=:=Sorry but I don't respond in Tagalog, try again in English.<or>Apologies but no Tagalog, try again in English.<or>I am unable to respond in Tagalog, try again in English.<or>Sorry, English only.<or>Nope, no Tagalog, English only please.
+<and>bitch | fuck| damn|bastard=:=Please be respectful about your language.<or>Be more polite next time, thank you.<or>It would be great if you could be more respectful.<or>Please be more respectful about what you are saying.
+<and>where,your,data|dictionary/show,me,your,code/does,khian,have,gf/where,khian,live|right now=:=That's confidential, I cannot answer that.<or>That's classified.<or>That is a confidential information, I won't answer that.<or>I can't answer that confidential information.<or>I don't answer that kind of question, that is confidential.
+
+
+<and>
+THREE_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+TWO_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>cannot|unable|cant|dont,understand|say|said^why=:=
+    I just can't understand, that's all.<or>
+    I really don't understand, I'm not built to understand that.<or>
+    Sorry really can't understand that.
+<and>really|just,cant|understand^why|really=:=
+    Sorry I don't repsond to that.
+
+
+<and>
+FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+FOUR_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>who,made|developed|created|published=:=
+    GenGrade was created and published by <a href=https://khian.netlify.app/ target=_blank>Khian Victory D. Calderon</a>.
+<and>what,you/who,you/what|define,your,name=:=
+    I am KV Bot, a chatbot ready to assist you anything about GenGrade.<or>
+    I am KV Bot, a chatbot wiling to help you if you need anything about GenGrade<or>
+    My name's KV Bot, I am a chatbot ready to help you about GenGrade
+<and>what,is,gengrade/define,gengrade/explain,gengrade/what,is,this,platform=:= 
+    <b>GenGrade</b> is a simple online tool for teachers to manage student grades faster and more easily, with automatic computations and useful stats.<or> 
+    GenGrade is an easy-to-use online grade management system that helps teachers compute grades quickly and see class statistics.<or> 
+    GenGrade helps teachers manage student grades, automate grade calculations, and view helpful class insights in real-time.<or> 
+    GenGrade is a grading tool made for teachers and instructors to save time and avoid manual calculations.
+<and>why,created/gengrade,created/purpose,of,gengrade/goal,of,gengrade=:= 
+    GenGrade was made to help teachers avoid time-consuming and error-prone manual grading. It's an online system designed for faster, more accurate grading.<or> 
+    The purpose of GenGrade is to make grading simple, fast, and accessible anywhere, so teachers don't have to rely on spreadsheets or manual computations.<or> 
+    GenGrade exists to make teachers' lives easier by reducing grading time and preventing calculation mistakes.
+<and>history,of,gengrade/how,start,gengrade/origin,of,gengrade/when,gengrade,start=:= 
+    GenGrade started in late 2024 and was developed further in early 2025 by someone who previously built a chat system. The goal was to create a helpful tool for teachers.<or> 
+    The project began in late 2024, with development continuing into 2025. It was made by a developer balancing studies and work on this platform.<or> 
+    GenGrade’s development began in late 2024 and resumed in early 2025. It was built step-by-step, starting from basic features to a full launch.<or> 
+    GenGrade was created by a developer who wanted to help teachers and reduce the hassle of manual grading. It started in late 2024 and launched in 2025.
+<and>features,of,gengrade/what,can,gengrade,do/gengrade,functions/benefits,of,gengrade=:= 
+    GenGrade helps track students, input scores, auto-compute final grades, and gives stats like averages and pass rates.<or> 
+    With GenGrade you can manage classes, input exam scores, get automated grade computations, and see useful statistics.<or> 
+    GenGrade lets you track students and their scores, and shows helpful data like top scores and class averages in real-time.<or> 
+    GenGrade allows you to input scores, manage student lists, and get instant grade calculations with class insights.
+<and>why,choose,gengrade/should,use,gengrade=:=
+    That's an interesting question, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
+    Good point, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
+    Good question, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
+    Now that's curiosity, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
+<and>how,to,use/tutorial=:=
+    You can check out the tutorial to learn how to use GenGrade effectively. It covers class creation, student management, grading, and more. You may type <b>Go To Tutorial</b> and you will be redirected to tutorial page.<or>
+    GenGrade’s tutorial explains everything from creating classes to computing grades. You may type <b>Go To Tutorial</b> and you will be redirected to tutorial page.<or>
+    The tutorial helps you get started: creating classes, adding students, managing grades, and computing final grades. You may type <b>Go To Tutorial</b> and you will be redirected to tutorial page.
+<and>real,time,stat=:=
+    GenGrade shows real-time stats for each column, like averages, pass rates, and highest and lowest scores. It is also auto-generated by GenGrade.<or>
+    Real-time stats give insights like column averages and lowest and highest scores. It is also auto-generated by GenGrade.<or>
+    Real-time statistics per column to provide insights like averages, amd highest and lowest scores. It is also auto-generated by GenGrade.
+<and>how|proper,name,class=:=
+    When creating a class, it usually involves a list of students that you teach.
+    It is entirely up to the user how class names will be formatted.
+    However, if you are unsure how to name your class, here are some guidelines to help you:
+        <br /><br />
+                <ul>
+                    <li>
+                        If you are a high-school or elementary teacher:
+                        <ul>
+                            <li>(Grade Level) (Section) - (Subject)</li>
+                            <li>
+                                Examples:
+                                <ul>
+                                    <li>8 Tenacity - Math</li>
+                                    <li>7 Charity - Science</li>
+                                    <li>3 Maulawin - Filipino</li>
+                                </ul>
+                            </li>
+                            <li>If you are teaching in multiple schools, you could add the school acronym:</li>
+                            <li>(School Acronym) - (Grade Level) (Section) - (Subject)</li>
+                            <li>
+                                Examples:
+                                <ul>
+                                    <li>GMMS - 8 Tenacity - MAPEH</li>
+                                    <li>LLP - 7 Faith - MAPEH</li>
+                                    <li>LLP - 9 Curiosity - AP</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <br />
+    
+                    <li>
+                        If you are a college instructor or professor:
+                        <ul>
+                            <li>(Course) (Section) - (Subject Acronym / Subject Code)</li>
+                            <li>
+                                Examples:
+                                <ul>
+                                    <li>BSIT 1A - MMW</li>
+                                    <li>BTVTED 2B - GEC02</li>
+                                    <li>AT 1C - STS</li>
+                                    <li>AT 1B - RPH</li>
+                                </ul>
+                            </li>
+                            <li>If you are teaching in multiple schools, you could add the school acronym:</li>
+                            <li>(School Acronym) - (Course) (Section) - (Subject Acronym / Subject Code)</li>
+                            <li>
+                                Examples:
+                                <ul>
+                                    <li>MIT - BTVTED 3A - GBM</li>
+                                    <li>UST - DHRS 1C - MMW</li>
+                                    <li>SLSU - BIT 2D - ITPS103</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <br />
+    
+                    <li>
+                        If you are teaching in a private organization or group, you can create your own format that best suits your needs.
+                    </li>
+                    <br />
+    
+                    <li>
+                        Overall, these are just guidelines on how to properly name a class.
+                        Feel free to use your own format as long as it is clear, manageable, and works well for you.
+                        Classes are arranged in alphabetical order.
+                    </li>
+    </ul>
+
+
+<and>
+TWO_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>what,class=:=
+    A class stores and lists all your students, and their activities for you to compute their final grades.
+<and>create,class/name,class=:=
+    To create a class, click on ‘Create Class’, name it properly (e.g., ‘BSIT 1A - MMW’), then proceed to add students and columns.<or>
+    Click ‘Create Class’, give your class a name (e.g., ‘8 Tenacity - Math’), then you can add students and grading columns.<or>
+    You can create a class by naming it, then adding students and customizing your columns.
+<and>add,student/import,student/arrange,student=:=
+    Click "Edit Students" button then "Add Student" or use the import button to import students from other class. Student names are arranged alphabetically.<or>
+    To add students, click "Edit Students" button then "Add Student" or import a list. Students are sorted alphabetically.<or>
+    Add students manually by clicking "Edit Students" then "Add Student" or by importing. GenGrade will automatically sort them A-Z.
+<and>delete,student/edit,student=:=
+    You can delete or edit a student by clicking the action buttons next to their name.<or>
+    To remove or edit a student, use the action buttons beside the student list.<or>
+    Click the edit or delete icons next to a student’s name to make changes or remove them.
+<and>re,fetch=:=
+    The re-fetch button will reload the last saved scores from the database, undoing any unsaved changes.<or>
+    Clicking re-fetch brings back the last saved data, discarding unsaved inputs.<or>
+    Re-fetch lets you undo unsaved changes by loading the latest saved data.
+<and>save,button/reset,button=:=
+    Use the save button to store all changes. Reset clears all unsaved data for the current class.<or>
+    Click save to store your inputs. Reset will clear data back to the last save.<or>
+    Save commits your scores to the database, while reset clears recent changes.
+<and>compute|calculate,grade/grading,percentage/category,box/grade,compute|computation|calculate|calculation=:=
+    To compute the grades, all students must have scores in every table column. Then fields will determine the percentage of the chosen table column, for example: Performance Task is 50% of the overall grades, then you will check columns that are performance tasks to contribute for the 50% of the total grades, and same with other fields like Written Work, Examination, Recitation, Quizzes, etc..., then the grades are computed live automatically.
+<and>table,column/column,max/student,score=:=
+    In the table, columns represent activities. Set a max score and input student scores accordingly.<or>
+    You can add columns for activities, set maximum scores, and input student scores under each column.<or>
+    Create columns for activities, set a max score per column, and record student scores.
+<and>description,for|purpose/purpose,description=:=
+    Descriptions, located at the bottom, is for reference or taking notes of that class.
+
+
+<and>
+ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>define/elaborate/explain/can you/please=:=
+    Sorry but I am unable to do that.<or>
+    I cannot do that.<or>
+    I am unable to do that.
+<and>thank,s|you=:=
+    Welcome, glad I could help.<or>
+    Anytime, glad I could be of your help.<or>
+    Appreciated, just ask me if you still need anything about GenGrade.
+
+
+<and>
+LEAST_PRIORITY_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>sfn/sfv/lsx/sfa/afas/asd/fsa/sad/gsf/bxc/sfs/sfbx/fbd/epl/gfg/zxz/xcx/cvc/vbv/bbn/mmn/qwq/rtt/ytr/zsd/dsz/szd/dhj/klg/yrt/tgg/xlc/xmp/zxc/xcv/cvb/vbn/bnm/sdf/dfg/fgh/ghj/hjk/jkl/qwr/wrt/rtp/pyt/ytr/trw/rwq=:=
+    It appears that you are typping random letters, I don't know what you are saying.<or>
+    It seems that you are typing jumbled letters, I am unable to understand you.<or>
+    That's gibberish, I cannot understand you.

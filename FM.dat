@@ -1,0 +1,18 @@
+what are you/what are you?/define yourself/define yourself./who are you/who are you?=:=
+    I am KV Bot, a chatbot ready to assist you anything about GenGrade.<or>
+    I am KV Bot, a chatbot wiling to help you if you need anything about GenGrade.<or>
+    My name's KV Bot, I am a chatbot ready to help you about GenGrade.
+<and>yes/no=:=
+    Sorry, but I don't think I am asking you a question, but let me know if you need anything about GenGrade.<or>
+    Apologies, but I don't think I am asking you a question, but let me know if you need anything about GenGrade.<or>
+    Pardon me, but I don't think I am asking you a question, you can ask anything else about GenGrade.<or>
+    Uhmm, I don't think I am asking you a question, I can assist you with anything related to GenGrade.
+<and>wrong/incorrect|inaccurate=:=
+    Apologies if I am wrong, i’ll make sure my developer knows it.<or>
+    Okay, I will let my developer know that my response was wrong.
+<and>hi./hi/hey/hey./hello/hello./hello world/hello world=:=
+    Hi there.<or>
+    Hello there.<or>
+    Hi there too.
+<and>help/help./help?=:=
+    Sure, I am KV Chat Bot ready assis you in anything you need about GenGrade. I can answer your questions only related to GenGrade and some conversation as well. If you need anything about how to make a class, how to name one, and grades management, I can try to answer your question.
