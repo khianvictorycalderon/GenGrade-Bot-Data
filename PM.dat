@@ -14,7 +14,7 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     I just can't understand, that's all.<or>
     I really don't understand, I'm not built to understand that.<or>
     Sorry really can't understand that.
-<and>really|just,cant|understand^why|really=:=
+<and>really|just,cant,understand^why|really=:=
     Sorry I don't repsond to that.
 
 
@@ -24,15 +24,27 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
 
 <and>
 FOUR_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>is,our,conversation|convo,record/you,record,my|our,chat|convo|conversation=:=
+    Yes, our conversation is being recorded in the database to improve my response over time.<or>
+    Yes, it is stated in our privacy policy, this is done to improve my response to you.<or>
+    Yes, as stated in our sites's privacy policy, this is for me to respond better the next time you ask me something.
 
-
+<and>
 THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>how,old,you/what,your,age=:=
+    Me as integrated KV Bot was born the same date as GenGrade was published, March 20, 2025.<or>
+    As integrated KV Bot, I was born as the same date when GenGrade was published, March 20, 2025.<or>
+    I was born on March 20, 2025, as integrated KV Bot, the same date when GenGrade was published.
+<and>how,generate|respond,fast|quick|instant=:=
+    Because my data is already preloaded in this browser, and when you ask me something, I just locate answers in that dictionary instead of other AI that requires fetching response from the server, I only fetch data then I make request to myself.
+<and>what|where,privacy,policy=:=
+    GenGrade's prviacy policy can be visitted by logging out and clicking on the menu, then privacy policy.
+<and>what|where,term,condition=:=
+    GenGrade's terms and conditions can be visitted by loggint out and clicking on the menu, then terms and conditions.
+<and>just,tell,me/why,not,tell|say=:=
+    Because my data is indepent from GenGrade Privac Policy, Terms and Conditions, About, and Changelogs pages. If it changed, it won't affect my data, so it is better to check it yourself to be updated as soon as possible.
 <and>who,made|developed|created|published=:=
     GenGrade was created and published by <a href=https://khian.netlify.app/ target=_blank>Khian Victory D. Calderon</a>.
-<and>what,you/who,you/what|define,your,name=:=
-    I am KV Bot, a chatbot ready to assist you anything about GenGrade.<or>
-    I am KV Bot, a chatbot wiling to help you if you need anything about GenGrade<or>
-    My name's KV Bot, I am a chatbot ready to help you about GenGrade
 <and>what,is,gengrade/define,gengrade/explain,gengrade/what,is,this,platform=:= 
     <b>GenGrade</b> is a simple online tool for teachers to manage student grades faster and more easily, with automatic computations and useful stats.<or> 
     GenGrade is an easy-to-use online grade management system that helps teachers compute grades quickly and see class statistics.<or> 
@@ -135,12 +147,18 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
                         Classes are arranged in alphabetical order.
                     </li>
     </ul>
+<and>what,integrated,bot=:=
+    KV Bot and me (Integrated KV Bot) are different. We both used the same way parsing data, but we differ in the dictionary we load. I am like a special agent based from the original KV Bot, which has it's own website, while I am just an integration to to websites.
 
 
 <and>
 TWO_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>what,class=:=
     A class stores and lists all your students, and their activities for you to compute their final grades.
+<and>what,you/who,you/what|define,your,name=:=
+    I am integrated KV Bot, a chatbot ready to assist you anything about GenGrade.<or>
+    I am integrated KV Bot, a chatbot wiling to help you if you need anything about GenGrade<or>
+    My name's integrated KV Bot, I am a chatbot ready to help you about GenGrade
 <and>create,class/name,class=:=
     To create a class, click on ‘Create Class’, name it properly (e.g., ‘BSIT 1A - MMW’), then proceed to add students and columns.<or>
     Click ‘Create Class’, give your class a name (e.g., ‘8 Tenacity - Math’), then you can add students and grading columns.<or>
@@ -181,10 +199,24 @@ ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------
     Welcome, glad I could help.<or>
     Anytime, glad I could be of your help.<or>
     Appreciated, just ask me if you still need anything about GenGrade.
+<and>okay/fine=:=
+    Right then, let me know if you still need anything.<or>
+    Alright, just tell me if you need something.<or>
+    Fine then, just ask me something if you need anything.
+<and>wow/great/impressive/amazing=:=
+    Great then, I'm glad I can impress you.<or>
+    Glad I can impress you.<or>
+    Thank you for you compliment.<or>
+    Thanks, glad that I can impress you.
 
 
 <and>
 LEAST_PRIORITY_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>what /why /where /who /when /how /was the/were you/are you=:=
+    I don't answer that specific question.<or>
+    I cannot answer that.<or>
+    I am unable to anwer that question.
+
 <and>sfn/sfv/lsx/sfa/afas/asd/fsa/sad/gsf/bxc/sfs/sfbx/fbd/epl/gfg/zxz/xcx/cvc/vbv/bbn/mmn/qwq/rtt/ytr/zsd/dsz/szd/dhj/klg/yrt/tgg/xlc/xmp/zxc/xcv/cvb/vbn/bnm/sdf/dfg/fgh/ghj/hjk/jkl/qwr/wrt/rtp/pyt/ytr/trw/rwq=:=
     It appears that you are typping random letters, I don't know what you are saying.<or>
     It seems that you are typing jumbled letters, I am unable to understand you.<or>
