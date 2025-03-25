@@ -1,5 +1,5 @@
 PRIORITY_MATCH_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
-<and>bobo |pogi |sino ang|ano ang|kamusta |kumusta|bakit |saan ang|saan makikita|ikaw ba=:=Sorry but I don't respond in Tagalog, try again in English.<or>Apologies but no Tagalog, try again in English.<or>I am unable to respond in Tagalog, try again in English.<or>Sorry, English only.<or>Nope, no Tagalog, English only please.
+<and>bobo |pogi |sino ang|ano ang|kamusta |kumusta|bakit |saan ang|saan makikita|ikaw ba=:=Sorry but I don't respond in Tagalog, try again in English.<or>Apologies but no Tagalog, try again in English.<or>I am unable to respond in Tagalog, try again in English.<or>Sorry, English only.<or>English only please.
 <and>bitch | fuck| damn|bastard=:=Please be respectful about your language.<or>Be more polite next time, thank you.<or>It would be great if you could be more respectful.<or>Please be more respectful about what you are saying.
 <and>where,your,data|dictionary/show,me,your,code/does,khian,have,gf/where,khian,live|right now=:=That's confidential, I cannot answer that.<or>That's classified.<or>That is a confidential information, I won't answer that.<or>I can't answer that confidential information.<or>I don't answer that kind of question, that is confidential.
 
@@ -15,7 +15,7 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     I really don't understand, I'm not built to understand that.<or>
     Sorry really can't understand that.
 <and>really|just,cant,understand^why|really=:=
-    Sorry I don't repsond to that.
+    Sorry I don't respond to that.
 
 
 <and>
@@ -38,9 +38,9 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
 <and>how,generate|respond,fast|quick|instant=:=
     Because my data is already preloaded in this browser, and when you ask me something, I just locate answers in that dictionary instead of other AI that requires fetching response from the server, I only fetch data then I make request to myself.
 <and>what|where,privacy,policy=:=
-    GenGrade's prviacy policy can be visitted by logging out and clicking on the menu, then privacy policy.
+    GenGrade's prviacy policy can be visited by logging out and clicking on the menu, then privacy policy.
 <and>what|where,term,condition=:=
-    GenGrade's terms and conditions can be visitted by loggint out and clicking on the menu, then terms and conditions.
+    GenGrade's terms and conditions can be visited by loggint out and clicking on the menu, then terms and conditions.
 <and>just,tell,me/why,not,tell|say=:=
     Because my data is indepent from GenGrade Privac Policy, Terms and Conditions, About, and Changelogs pages. If it changed, it won't affect my data, so it is better to check it yourself to be updated as soon as possible.
 <and>who,made|developed|created|published=:=
@@ -187,7 +187,22 @@ TWO_WORDS_!@$@@!#=:=This is an empty Data---------------------------------------
     Create columns for activities, set a max score per column, and record student scores.
 <and>description,for|purpose/purpose,description=:=
     Descriptions, located at the bottom, is for reference or taking notes of that class.
-
+<and>change|new,pass=:=
+	To change or create a new password, kindly go to account, and enter your old password, then your new password and confirm your new password. 
+		Password must contain at least:
+		<ul>
+			<li>One Uppercase Letter</li>
+			<li>One Lowercase Letter</li>
+			<li>Number</li>
+			<li>Special Character</li>
+		</ul>
+		For the purpose of security reason.
+<and>purpose,tutorial/tutorial,purpose=:=
+	The purpose of the tutorial is to instruct users on how to properly use GenGrade.
+<and>delete,account=:=
+	To delete your account, go to account, click delete account. Enter your password, then click permanently delete account. <br/><br/> ⚠️WARNING: This action deletes all your data in this website and cannot be reversed.
+<and>change|edit,name|mail|birthday|birthdate=:=
+	Unfortunately, in the account section, your name, birthday, and email cannot be changed, as they are captured in our database exactly as you entered them during registration. Changing this information may raise privacy concerns or lead to fraudulent activities.
 
 <and>
 ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -215,7 +230,7 @@ LEAST_PRIORITY_!@$@@!#=:=This is an empty Data----------------------------------
 <and>what /why /where /who /when /how /was the/were you/are you=:=
     I don't answer that specific question.<or>
     I cannot answer that.<or>
-    I am unable to anwer that question.
+    I am unable to answer that question.
 
 <and>sfn/sfv/lsx/sfa/afas/asd/fsa/sad/gsf/bxc/sfs/sfbx/fbd/epl/gfg/zxz/xcx/cvc/vbv/bbn/mmn/qwq/rtt/ytr/zsd/dsz/szd/dhj/klg/yrt/tgg/xlc/xmp/zxc/xcv/cvb/vbn/bnm/sdf/dfg/fgh/ghj/hjk/jkl/qwr/wrt/rtp/pyt/ytr/trw/rwq=:=
     It appears that you are typping random letters, I don't know what you are saying.<or>
