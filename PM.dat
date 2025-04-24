@@ -31,6 +31,12 @@ FOUR_WORDS_!@$@@!#=:=This is an empty Data--------------------------------------
 
 <and>
 THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>how|is it|its,accurate|accuracy, real|time | stat/what|how|is it|its,real| real|time | stat,accuracy|accurate=:=
+    The real-time stats are 100% accurate as it calculates the students scores.<or>
+    It has 100% accuracy due to it's calculation of the students' scores.
+<and>how,are,you/how,you,doin=:=
+    I do not possess the capability of being fine as you might expect.<or>
+    I don't have the physical capability of having the state of fine.
 <and>how,old,you/what,your,age=:=
     Me as integrated KV Bot was born the same date as GenGrade was published, March 20, 2025.<or>
     As integrated KV Bot, I was born as the same date when GenGrade was published, March 20, 2025.<or>
@@ -64,7 +70,7 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
     With GenGrade you can manage classes, input exam scores, get automated grade computations, and see useful statistics.<or> 
     GenGrade lets you track students and their scores, and shows helpful data like top scores and class averages in real-time.<or> 
     GenGrade allows you to input scores, manage student lists, and get instant grade calculations with class insights.
-<and>why,choose,gengrade/should,use,gengrade=:=
+<and>why,choose|use,gengrade/should,use,gengrade=:=
     That's an interesting question, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
     Good point, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
     Good question, <b>GenGrade: Student Grades Management System</b> offers realtime grades updates depending on student scores, and also a web based tool that can be accessed anywhere anytime.<or>
@@ -149,6 +155,8 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
     </ul>
 <and>what,integrated,bot=:=
     KV Bot and me (Integrated KV Bot) are different. We both used the same way parsing data, but we differ in the dictionary we load. I am like a special agent based from the original KV Bot, which has it's own website, while I am just an integration to to websites.
+<and>real,time,purpose/purpose,real,time/stats,purpose/purpose,statistics=:=
+    The purpose of the real-time stats is to show live data statistics about the students. This is to ensure full monitoring of the student's performances.
 
 
 <and>
